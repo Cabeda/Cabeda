@@ -1,19 +1,19 @@
 <img align="left" width="50" height="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github Icon">
 
-## Welcome to my Github Profile 
+## Welcome to my Github Profile
 
-#### My name is José Cabeda and I'm a developer from Porto, Portugal 🇵🇹
+#### My **name** is José Cabeda and I'm a developer from Porto, Portugal 🇵🇹
+
 ### For more information visit my personal website https://cabeda.me/
+
 ##
 
 🏢 I'm currently working at Talkdesk as a Data Engineer.
-
 
 🌱 Besides liking Data I also enjoy learning about Javascript and web technologies in general.
 <img width="20" height="25" src="https://e7.pngegg.com/pngimages/780/695/png-clipart-javascript-comment-html-logo-international-conference-on-missions-node-js-icon-angle-text.png" alt="JS Icon">
 <img width="20" height="25" src="https://img2.pngio.com/download-icon-css-3-svg-eps-png-psd-ai-logo-vector-color-free-el-css-logo-png-1141_1600.png" alt="CSS Icon">
 <img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React Icon">
-
 
 ⚡ Fun facts about me, I love reading and learning new things on the Internet 🌐
 
@@ -29,3 +29,10 @@
 
 <img align="left" width="25" height="25" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" alt="Twitter Icon"> 
 jecabeda at gmail.com
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=cabeda&show_icons=true&count_private=true&theme=monokai" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabeda&hide=HTML&theme=monokai&layout=compact" />
+</a>
