@@ -17,8 +17,6 @@
 
 ⚡ Fun facts about me, I love reading and learning new things on the Internet 🌐
 
-##
-
 ### How to reach me 📫
 
 <img align="left" width="25" height="25" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png" alt="Linkedin Icon"> https://www.linkedin.com/in/jecabeda/
