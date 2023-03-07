@@ -2,15 +2,15 @@
 
 ## Welcome to my Github Profile
 
-#### My **name** is José Cabeda and I'm a developer from Porto, Portugal 🇵🇹
+#### My **name** is José Cabeda and I'm a software engineer from Porto, Portugal 🇵🇹
 
-### For more information visit my personal website https://cabeda.me/
+### For more information visit my personal website https://cabeda.dev
 
 ##
 
-🏢 I'm currently working at Talkdesk as a Data Engineer.
+🏢 I'm currently working at Fidel API as a Data Engineer.
 
-🌱 Besides liking Data I also enjoy learning about Javascript and web technologies in general.
+🌱 Besides liking Data I also enjoy learning about JS/TS and web technologies in general.
 <img width="20" height="25" src="https://e7.pngegg.com/pngimages/780/695/png-clipart-javascript-comment-html-logo-international-conference-on-missions-node-js-icon-angle-text.png" alt="JS Icon">
 <img width="20" height="25" src="https://img2.pngio.com/download-icon-css-3-svg-eps-png-psd-ai-logo-vector-color-free-el-css-logo-png-1141_1600.png" alt="CSS Icon">
 <img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React Icon">
